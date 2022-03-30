@@ -24,7 +24,6 @@ import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
 
 public class BlockStructure {
-
     private static String FilePath = "C:\\Users\\M\\Documents\\NetBeansProjects\\blockAssignment\\src\\blockchain\\blockchain.json";
     private static SimpleDateFormat SimpleDate = new SimpleDateFormat("E MMM dd HH:mm:ss z yyyy");
 
